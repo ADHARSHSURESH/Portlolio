@@ -1,0 +1,7 @@
+#projects{
+    width:200px;
+    height:200px;
+    display: flex;
+    gap:20%;
+    margin-left: 220px;
+}
